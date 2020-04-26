@@ -26,7 +26,7 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'user1');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Fullsail1');
+define('DB_PASSWORD', 'fullsail1');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
